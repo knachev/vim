@@ -1,4 +1,1 @@
-vim
-===
-
-vim
+These are my vim plugins and config files
