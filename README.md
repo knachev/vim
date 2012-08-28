@@ -1,1 +1,1 @@
-These are my vim plugins and config files
+vim plugins and config files
